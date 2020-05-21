@@ -18,4 +18,6 @@ const Password = "";
 # oracle dd other os据说可以一键DD成你想要的系统
 
 如 dd debian 9
+
+
 bash <(wget --no-check-certificate -qO- 'https://raw.githubusercontent.com/wangzhe12588/oracleLogin/master/InstallNET.sh') -d 9 -v 64 -a -p yourpassword
